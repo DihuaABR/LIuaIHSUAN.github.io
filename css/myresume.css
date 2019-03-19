@@ -8,5 +8,9 @@ h1 {
 
 .bg-primary {
 	background-color: #bd0600!important;
-background-image: url("../img/snow.png");
+        background-image: url("../img/snow.png");
+}
+
+.text-primary{
+        font-family: 'Comfortaa', cursive;
 }
