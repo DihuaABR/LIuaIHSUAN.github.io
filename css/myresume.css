@@ -1,0 +1,12 @@
+body {
+	font-family: 'Noto Sans TC',sans-serif;
+}
+
+h1 {
+	font-family: 'Noto Sans TC',sans-serif;
+}
+
+.bg-primary {
+	background-color: #bd0600!important;
+background-image: url("../img/snow.png");
+}
