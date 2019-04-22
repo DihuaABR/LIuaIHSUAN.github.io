@@ -21,10 +21,14 @@ table{
        text-align: center;
 }
 
-td:nth-child(2){
-       padding-right: 2rem;
+td:nth-child(1){
+       padding-right: 3rem;
 }
 
 td{
        padding: 1.15rem;
+}
+
+th:nth-child(1){
+       padding-right: 3rem;
 }
