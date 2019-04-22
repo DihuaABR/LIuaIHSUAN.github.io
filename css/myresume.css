@@ -22,5 +22,9 @@ table{
 }
 
 td:nth-child(2){
-       padding-right: 3rem;
+       padding-right: 2rem;
+}
+
+td{
+       padding: 1.15rem;
 }
