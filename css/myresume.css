@@ -18,5 +18,9 @@ h1,h2,h3 {
 }
 
 table{
-       paddimg: 3rem;
+       text-aling: center;
+}
+
+nth-child(1){
+       padding-right: 3px;
 }
