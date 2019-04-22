@@ -16,3 +16,7 @@ h1,h2,h3 {
        color: #001324!important;
        font-size: 80%;
 }
+
+table{
+       boder-size: 3rem;
+}
