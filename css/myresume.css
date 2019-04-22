@@ -21,6 +21,6 @@ table{
        text-align: center;
 }
 
-td:nth-child(1){
-       padding-right: 3px;
+td:nth-child(2){
+       padding-right: 3rem;
 }
