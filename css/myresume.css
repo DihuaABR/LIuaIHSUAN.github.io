@@ -26,7 +26,7 @@ td:nth-child(1){
 }
 
 td:nth-child(1){
-       padding-left: 7rem;
+       padding-left: 6rem;
 }
 
 td:nth-child(2){
@@ -34,7 +34,7 @@ td:nth-child(2){
 }
 
 td:nth-child(2){
-       padding-right: 7rem;
+       padding-right: 4rem;
 }
 
 td{
