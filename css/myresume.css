@@ -22,7 +22,7 @@ table{
 }
 
 td:nth-child(1){
-       padding-right: 7rem;
+       padding-right: 4rem;
 }
 
 td:nth-child(1){
@@ -49,5 +49,5 @@ th:nth-child(1){
        padding-right: 3rem;
 }
 
-th, td: {text-align: left;}
+th: {text-align: left;}
 
