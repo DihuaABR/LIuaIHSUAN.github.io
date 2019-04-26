@@ -31,7 +31,7 @@ td:nth-child(2){
 
 td{
        padding: 1.15rem;
-       border-bottom: 1px #001324;
+       border-bottom: 1px solid #001324;
 }
 
 th, td: {
