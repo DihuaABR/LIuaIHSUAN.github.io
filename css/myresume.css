@@ -18,7 +18,7 @@ h1,h2,h3 {
 }
 
 table{
-       text-align: center;
+       text-align: left;
 }
 
 td:nth-child(1){
