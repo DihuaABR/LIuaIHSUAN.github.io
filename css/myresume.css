@@ -49,6 +49,6 @@ th:nth-child(1){
        padding-right: 3rem;
 }
 
-th, td: {text-align: center;}
+th, td: {text-align: left;}
 
 
