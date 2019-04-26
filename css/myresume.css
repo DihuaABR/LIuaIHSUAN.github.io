@@ -23,18 +23,11 @@ table{
 
 td:nth-child(1){
        padding-right: 7rem;
-}
-
-td:nth-child(1){
        padding-left: 6rem;
-       width: 100px;
 }
 
 td:nth-child(2){
        padding-left: 4rem;
-}
-
-td:nth-child(2){
        padding-right: 7rem;
 }
 
@@ -50,6 +43,8 @@ th:nth-child(1){
        padding-right: 3rem;
 }
 
-th, td: {text-align: left;}
+th, td: {
+	text-align: left;
+}
 
 
